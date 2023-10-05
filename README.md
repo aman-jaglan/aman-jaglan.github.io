@@ -50,7 +50,6 @@
 - This project is dedicated to addressing this challenge by proposing a model that streamlines the process of discovering accurate and pertinent answers to questions. The model harnesses the power of Natural Language Processing (NLP) algorithms and leverages knowledge graphs to accomplish this objective efficiently.
 
 ## Balance of payment statistics Analysis (_September 2023_)
-
 -	I spearheaded an exhaustive analysis of crucial economic indicators, such as Capital Accounts, Net Lending/Borrowing, and Balance on Goods, Services, and Income. This extensive examination involved harnessing a substantial dataset spanning every country from 2015 to 2020.
 -	I effectively utilized the R programming language for data analysis and employed visualization methods such as scatter plots and logistic regression. The analysis revolved around four specific questions: examining trade balances, analyzing current accounts, investigating relationships between balance of payments indicators (e.g., trade balance, FDI) and key economic metrics (e.g., GDP growth, inflation, employment rates), and conducting cross-country comparative analyses.
 
