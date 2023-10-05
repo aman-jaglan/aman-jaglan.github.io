@@ -23,25 +23,25 @@
 - It is based on the data collected during DARPA's IDS evaluation programme in 1998.
 - DARPA 98 consists of around 4 gigabytes of compressed raw tcp dump data from 7 weeks of network activity, which may be processed into approximately 5 million connection records, each with approximately 100 bytes. It provides a training dataset of roughly 4,900,000 single connection vectors, each of which has 41 characteristics and is labelled as either normal or attack, with only one attack type. Denial of service (dos), user to root (u2r), remote to local (r2l), and probing assaults are the four types of attacks that may be found in a military network.
 **B. DECISION TREE**
-  ![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/decision%20tree.png)
+  ![](/Images/decision%20tree.png)
 **C. ATTRIBUTE SELECTION MEASURES**
   - Entropy
-    ![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/Entropy.png)
+    ![](/Images/Entropy.png)
   - INFORMATION GAIN
-    ![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/Picture1.png)
+    ![](/Images/Picture1.png)
   - GINI INDEX
-    ![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/Picture2.png)
+    ![](/Images/Picture2.png)
   - GAIN RATIO
-    ![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/Screenshot%202023-10-04%20at%207.05.47%E2%80%AFPM.png)
+    ![](/Images/Screenshot%202023-10-04%20at%207.05.47%E2%80%AFPM.png)
   - CHI-SQUARE
-    ![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/Picture3.png)
+    ![](/Images/Picture3.png)
 # Comparison between accuracy
 1. Naïve bayes model Figure and Decision tree model
-![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/Picture4.png)
+![](/Images/Picture4.png)
 2. Logistic regression model and K-Neighbor model
-![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/Picture5.png)
+![](/Images/Picture5.png)
 ### Evaluation and results
-![](https://github.com/aman-jaglan/Intrusion-detection-system/blob/master/Images/Screenshot%202023-10-04%20at%206.56.43%E2%80%AFPM.png)
+![](/Images/Screenshot%202023-10-04%20at%206.56.43%E2%80%AFPM.png)
 
 
 
