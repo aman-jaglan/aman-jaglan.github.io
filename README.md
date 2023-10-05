@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, MongoDB, Machine Learning, (Knowledge Graph, Matplotlib, KNN, KDD Dataset, Tree Model, K-Neighbors Classifier Model, NLP, Knowledge Graph) | Microsoft Azure| Databricks | PHP 
 
 # Education							       		
-M.S., Data Science	| George Washington University (_Expected_ _May 2025_)	 			        		
-B.tech., Information Technology | Maharaja Agrasen Institute of Technology (_May 2022_)
+- M.S., Data Science	| George Washington University (_Expected_ _May 2025_)	 			        		
+- B.tech., Information Technology | Maharaja Agrasen Institute of Technology (_May 2022_)
 
 # Projects
 ## Intrusion detection system (_November 2021_) 
