@@ -22,24 +22,28 @@
 **A. KDD’99 CUP DATASET**
 - It is based on the data collected during DARPA's IDS evaluation programme in 1998.
 - DARPA 98 consists of around 4 gigabytes of compressed raw tcp dump data from 7 weeks of network activity, which may be processed into approximately 5 million connection records, each with approximately 100 bytes. It provides a training dataset of roughly 4,900,000 single connection vectors, each of which has 41 characteristics and is labelled as either normal or attack, with only one attack type. Denial of service (dos), user to root (u2r), remote to local (r2l), and probing assaults are the four types of attacks that may be found in a military network.
+
 **B. DECISION TREE**
-  ![](/Images/decision%20tree.png)
+  ![Decision Tree](Images/decision%20tree.png)
+  
 **C. ATTRIBUTE SELECTION MEASURES**
   - Entropy
-    ![](/Images/Entropy.png)
+    ![Entropy Image](Images/Entropy.png)
   - INFORMATION GAIN
-    ![](/Images/Picture1.png)
+    ![](Images/Picture1.png)
   - GINI INDEX
-    ![](/Images/Picture2.png)
+    ![](Images/Picture2.png)
   - GAIN RATIO
     ![](/Images/Screenshot%202023-10-04%20at%207.05.47%E2%80%AFPM.png)
   - CHI-SQUARE
     ![](/Images/Picture3.png)
-# Comparison between accuracy
+    
+### Comparison between accuracy
 1. Naïve bayes model Figure and Decision tree model
 ![](/Images/Picture4.png)
 2. Logistic regression model and K-Neighbor model
 ![](/Images/Picture5.png)
+
 ### Evaluation and results
 ![](/Images/Screenshot%202023-10-04%20at%206.56.43%E2%80%AFPM.png)
 
