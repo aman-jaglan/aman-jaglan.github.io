@@ -92,7 +92,3 @@ To enhance the precision of our approach, the following steps can be considered:
 -	Engineered a tailored calendar system within Salesforce using Apex, streamlining meeting accessibility through Outlook. Categorized meetings into priority and general segments, elevating scheduling efficiency. 
 -	I assisted the team by getting data from Azure Blob Storage, cleaning it, and using PySpark on Databricks. Afterward, I rewrote the CSV file back to Azure Blob Storage and aided in uploading this data to pipelines.
 
-# Publications
-- ![](/aman-jaglan/Intrusion-detection-system)
-- ![](/aman-jaglan/Searching-for-relevant-text)
-
